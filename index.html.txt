@@ -70,42 +70,42 @@ footer {
 <div class="container">
 
   <div class="card">
-    <img src="images/product4.jpg" alt="Crochet Keychain">
+    <img src="https://picsum.photos/400/300" alt="Crochet Keychain">
     <h3>Crochet Keychain</h3>
     <p class="price">₹299</p>
     <button onclick="orderProduct('Crochet Keychain',299)">Buy Now</button>
   </div>
 
   <div class="card">
-    <img src="images/product4.jpg" alt="Phone Cover">
+    <img src="https://picsum.photos/400/300" alt="Phone Cover">
     <h3>Handmade Phone Cover</h3>
     <p class="price">₹499</p>
     <button onclick="orderProduct('Handmade Phone Cover',499)">Buy Now</button>
   </div>
 
   <div class="card">
-    <img src="images/product3.jpg" alt="Hair Clip">
+    <img src="https://picsum.photos/400/300" alt="Hair Clip">
     <h3>Crochet Hair Clip</h3>
     <p class="price">₹199</p>
     <button onclick="orderProduct('Crochet Hair Clip',199)">Buy Now</button>
   </div>
 
   <div class="card">
-    <img src="images/product4.jpg" alt="Bracelet">
+    <img src="https://picsum.photos/400/300" alt="Bracelet">
     <h3>Handmade Bracelet</h3>
     <p class="price">₹249</p>
     <button onclick="orderProduct('Handmade Bracelet',249)">Buy Now</button>
   </div>
 
   <div class="card">
-    <img src="images/product5.jpg" alt="Flower">
+    <img src="https://picsum.photos/400/300" alt="Flower">
     <h3>Crochet Flower</h3>
     <p class="price">₹149</p>
     <button onclick="orderProduct('Crochet Flower',149)">Buy Now</button>
   </div>
 
   <div class="card">
-    <img src="images/product6.jpg" alt="Pouch">
+    <img src="https://picsum.photos/400/300" alt="Pouch">
     <h3>Handmade Pouch</h3>
     <p class="price">₹399</p>
     <button onclick="orderProduct('Handmade Pouch',399)">Buy Now</button>
@@ -126,4 +126,5 @@ function orderProduct(name, price) {
 }
 </script>
 </body>
+
 </html>
